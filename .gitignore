@@ -1,0 +1,11 @@
+# Ignore frontend and backend build artifacts
+/backend/target/
+/frontend/.next/
+/frontend/node_modules/
+
+# General
+*.log
+.env
+.DS_Store
+.idea/
+.vscode/
